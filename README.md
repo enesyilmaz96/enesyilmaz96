@@ -69,7 +69,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<img src="https://lottiefolder.com/wp-content/uploads/2022/11/network-share-gradient-lottie-icon-1.gif" alt="Connect" width=150 height=150 align="left">
+<img src="https://lottiefolder.com/wp-content/uploads/2022/11/network-share-gradient-lottie-icon-1.gif" alt="Connect" width=150 height=150 align="right">
 <p align="left">
 <a href="https://www.linkedin.com/in/enes-yilmaz-420472a0" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="[https://www.linkedin.com/in/enes-yilmaz-420472a0]" height="30" width="100" /></a>
  
