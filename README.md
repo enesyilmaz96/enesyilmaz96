@@ -65,7 +65,7 @@
 <img src="https://www.osmaniye.edu.tr/oku_img/haberler/d373cfd1b5314bed9faa89a2594e4479.jpeg" alt="btk" width="100" height="40"/> </a> 
 
 
-#
+  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="Coding" width=150 height=150 align="right">
 <h3 align="left">Connect with me:</h3>
 
