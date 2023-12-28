@@ -1,4 +1,4 @@
-[![MasterHead](https://web-assets.esetstatic.com/wls/2019/08/AI.jpg)
+![MasterHead](https://web-assets.esetstatic.com/wls/2019/08/AI.jpg)
 
 <h1 align="center">Hi 👋, I'm Enes YILMAZ</h1>
 <h3 align="center">🔍 A developer interested in data science and artificial intelligence through the eyes of an industrial engineer</h3>
