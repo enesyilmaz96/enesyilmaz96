@@ -26,7 +26,7 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-<img src="https://1000logos.net/wp-content/uploads/2021/04/MATLAB-logo.png" alt="matlab" width="70" height="35"/> </a> 
+<img src="https://logos-world.net/wp-content/uploads/2020/12/MATLAB-Symbol.jpg" alt="matlab" width="80" height="30"/> </a> 
 <img src="https://raw.githubusercontent.com/github/explore/71e4a0fc524fd1d7a0d9a940aa6b91f31458a87b/topics/vba/vba.png" alt="vba" width="60" height="50"/> </a> 
 
 
@@ -61,18 +61,20 @@
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
-<img src="https://miuul.com/image/theme/logo-dark.png" alt="miuul" width="60" height="30"/> </a> 
+<img src="https://www.filepicker.io/api/file/g9yU7b0SQvC4c7Ve7SXn" alt="miuul" width="75" height="30"/> </a> 
 <img src="https://www.osmaniye.edu.tr/oku_img/haberler/d373cfd1b5314bed9faa89a2594e4479.jpeg" alt="btk" width="100" height="40"/> </a> 
 
 
   <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="Coding" width=150 height=150 align="right">
-<h3 align="left">Connect with me:</h3>
 
+
+<h3 align="left">Connect with me:</h3>
+<img src="https://lottiefolder.com/wp-content/uploads/2022/11/network-share-gradient-lottie-icon-1.gif" alt="Connect" width=150 height=150 align="left">
 <p align="left">
-<a href="https://www.linkedin.com/in/enes-yilmaz-420472a0" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="[https://www.linkedin.com/in/enes-yilmaz-420472a0] height="40" width="100" /></a>
+<a href="https://www.linkedin.com/in/enes-yilmaz-420472a0" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="[https://www.linkedin.com/in/enes-yilmaz-420472a0]" height="30" width="100" /></a>
  
 <a href="https://kaggle.com/enesy1lmaz" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="enesy1lmaz" height="30" width="100" /></a>
 
 <a href="https://medium.com/@enesyilmaz96" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@enesyilmaz96" height="30" width="100" /></a>
 </p>
+
