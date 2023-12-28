@@ -1,11 +1,24 @@
 ![MasterHead](https://web-assets.esetstatic.com/wls/2019/08/AI.jpg)
+![](https://komarev.com/ghpvc/?username=enesyilmaz96&color=blue)
+<div align="center">
+ <a href="https://github.com/eneyilmaz96">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%f0%9f%91%8b+Hi+I'm+Enes+YILMAZ+%e2%9c%a8;%f0%9f%93%9a+Industrial+Engineer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
+ </a>
+</div>
 
-<h1 align="center">Hi 👋, I'm Enes YILMAZ</h1>
+
+
+
 <h3 align="center">🔍 A developer interested in data science and artificial intelligence through the eyes of an industrial engineer</h3>
 
 - 🌱 I’m currently learning **Artificial Intelligence, Data Science**
 
 - 📫 How to reach me **enes1996yilmaz@gmail.com**
+
+
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="Coding" width=200 height=200 align="left">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
