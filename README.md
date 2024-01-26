@@ -67,6 +67,27 @@
 <img src="https://www.osmaniye.edu.tr/oku_img/haberler/d373cfd1b5314bed9faa89a2594e4479.jpeg" alt="btk" width="100" height="40"/> </a> 
 
 
+<h2 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Github Statistics</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=enesyilmaz96" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=enesyilmaz96" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h2 align="left">Github Streak Statistics</h2>
+
+###
+
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enesyilmaz96&theme=dark" alt="enesyilmaz96" />
+</div>
+
+
+
   <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
